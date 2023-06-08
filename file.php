@@ -1,1 +1,2 @@
 <?= date('2022') ?>
+<?php echo'test' ?>
